@@ -1,0 +1,8 @@
+Node ejecuta archivos js
+
+npm install: instala modulos que necesita el proyecto
+npm i nombremodulo -g: instala modulo para todos los proyectos de Node
+
+npx modulo: ejecuta modulo, si no se encuentra en el proyecto lo instala
+
+
