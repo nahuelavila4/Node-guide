@@ -16,10 +16,17 @@ function dividir(x, y){
     return x / y;
 }
 
-module.exports = {
+/* module.exports = {
+    sumar,
+    restar,
+    multiplicar,
+    dividir
+} */
+
+// Para exportarlo con ecmascript module es:
+export default {
     sumar,
     restar,
     multiplicar,
     dividir
 }
-

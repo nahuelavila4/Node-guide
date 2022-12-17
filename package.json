@@ -1,0 +1,21 @@
+{
+  "name": "node-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelavila4/Node-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelavila4/Node-guide/issues"
+  },
+  "homepage": "https://github.com/nahuelavila4/Node-guide#readme"
+}
